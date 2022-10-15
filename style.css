@@ -1,0 +1,36 @@
+.odinlogo {
+   font: Norse Bold;
+   display: flex;
+   margin-top: auto;
+   grid-template-columns: 1fr 1fr;
+   float: left;
+}
+
+
+.cont{
+   margin-top: 2%;
+   margin-left: 40%;
+  
+}
+
+button {
+   color: #596D48;
+}
+
+input {
+   color: black;
+   border-color: red;
+   box-shadow: #E5E7EB;
+}
+
+:hover{
+   border-color: blue;
+}
+
+
+.con {
+   margin-top: 1.5%;
+   margin-right: 50%;
+   float: right;
+   color: rebeccapurple;
+}
